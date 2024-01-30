@@ -51,7 +51,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        <div className="flex flex-row items-center justify-center gap-8">
+        {/* <div className="flex flex-row items-center justify-center gap-8">
           <div className="flex flex-row gap-2 items-center text-sm text-white">
             <BiPhoneCall />
             <p>+91 9910891864 (Dr. Poonam Tanwar)</p>
@@ -60,7 +60,7 @@ const Footer = () => {
             <AiOutlineMail />
             <p>aiccit2023@gmail.com</p>
           </div>
-        </div>
+        </div> */}
 
         <div className="flex items-center justify-center text-sm text-white">
           Copyright &#169; ICAICCIT - 2023. All Rights Resevered
